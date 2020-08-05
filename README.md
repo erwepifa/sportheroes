@@ -8,4 +8,4 @@ est vrai ou faux.
 
 Vous pouvez changer les paramètres, le premier paramètre sera toujours le type (running, cycling, walking),
 le deuxième sera la distance compris entre 0 et ce que vous voulez tant que c'est positif et le dernier paramètre
-est la durée compris entre 0 et ce que vous voulez tant que c'est positif.
+est la durée compris entre 0 et ce que vous voulez tant que c'est positif ça retournera TRUE ou FALSE selon les paramètres.
