@@ -1,0 +1,26 @@
+{
+  "name": "@erwan/sportheroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --config ./jest.config.json",
+    "test:watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoldyckSH/sportheroes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZoldyckSH/sportheroes/issues"
+  },
+  "homepage": "https://github.com/ZoldyckSH/sportheroes#readme",
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "jsdoc": "^3.6.5",
+    "rewire": "^5.0.0"
+  }
+}
